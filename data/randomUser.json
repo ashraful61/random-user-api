@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Alexis",
+    "gender": "female",
+    "contact": "+1 (873) 468-2113",
+    "address": "642 Times Placez, Fairfield, Guam, 2039",
+    "photoUrl": "assas"
+  },
+  {
+    "id": 2,
+    "name": "Burris",
+    "gender": "male",
+    "contact": "+1 (820) 576-3263",
+    "address": "244 Banker Street, Summerfield, Pennsylvania, 6670",
+    "photoUrl": "assas"
+  },
+  {
+    "id": 3,
+    "name": "Carney",
+    "gender": "male",
+    "contact": "+1 (978) 597-2851",
+    "address": "636 Milford Street, Byrnedale, Puerto Rico, 369",
+    "photoUrl": "assas"
+  },
+  {
+    "id": 4,
+    "name": "Webb",
+    "gender": "male",
+    "contact": "+1 (857) 473-2875",
+    "address": "151 Lawn Court, Coalmont, Mississippi, 1559",
+    "photoUrl": "assas"
+  },
+  {
+    "id": 5,
+    "name": "Dianne",
+    "gender": "female",
+    "contact": "+1 (976) 492-3552",
+    "address": "988 Benson Avenue, Allamuchy, Marshall Islands, 2267",
+    "photoUrl": "assas"
+  }
+]
